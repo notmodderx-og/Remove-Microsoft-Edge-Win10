@@ -1,0 +1,10 @@
+# Ignore system files
+Thumbs.db
+.DS_Store
+*.log
+
+# Ignore PowerShell history
+*.pshistory
+
+# Ignore compiled scripts
+*.exe
